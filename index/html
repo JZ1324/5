@@ -13,14 +13,14 @@
 </script>
 
 <meta charset="UTF-8">
-        <meta http-equiv="refresh" content="0; url=http:google.com/">
+        <meta http-equiv="refresh" content="0; url=http://google.com/">
         <script type="text/javascript">
-            window.location.href = "http://:google.com/"
+            window.location.href = "http://google.com/"
         </script>
         <title>Crash</title>
     </head>
     <body>
         <!-- Note: don't tell people to `click` the link, just tell them that it is a link. -->
-        If you are not redirected automatically, follow this <a href='\https://:google.com/'>Google</a>.
+        If you are not redirected automatically, follow this <a href='\https://google.com/'>Google</a>.
     </body>
 </html>
